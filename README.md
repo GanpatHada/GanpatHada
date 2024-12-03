@@ -1,6 +1,6 @@
 <!-- <img src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901782.jpg?t=st=1733253031~exp=1733256631~hmac=e72343e1c0f21883547fa880028c67b31cbaa14c82e741e7fb533de02e29dae8&w=1380" width="200"/> -->
 
-![](./html_bg.jpg)
+![](./header.png)
 
 <!-- <h1 align="center">Hello, I'm Ganpat Hada</h1> -->
 <!-- <br> -->
