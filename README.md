@@ -43,7 +43,7 @@
 
 <h3>💫 About Me</h3>
 
-<img width="50%" align="right" alt="Github" src="assets/side-image.svg" />
+
 
 I'm a dedicated software developer with a strong foundation in full-stack development. My expertise lies in building responsive and
 interactive front-end applications using React, and developing efficient and scalable back-end systems with Express and Java. With
