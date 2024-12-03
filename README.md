@@ -6,13 +6,13 @@
 <!-- <br> -->
 <div align = "center">
  <h1>Hi, I am 
- <a href="https://mohitpraja.netlify.com" target="_blank">Ganpat Hada</a>
+ <a href="https://ganpathada22.netlify.com" target="_blank">Ganpat Hada</a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
  <br>
  <br>
  </h1>
 
- <img src="assets/developer_code.gif" alt="Developer Code" width="60%">
+ <img src="./developer_code.gif" alt="Developer Code" width="60%">
  <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>full stack web developer</b> 🚀 from <b>Rajasthan, India</b>.<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
