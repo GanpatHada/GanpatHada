@@ -1,19 +1,101 @@
-<h1 align="center">Hi 👋, I'm Ganpat Hada</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<!-- <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_647ecd43c5092e1c431f22fd_Flutter_App_Development_A_Step_by_Step_Tutorial_With_Dhi_Wise_E2_80_99s_Flutter_Builder_OG_Image_62b760b8fe.jpg"/> -->
 
-- 🌱 I’m currently learning **Typescript,Graphql and nextjs**
+![](assets/header.png)
 
-- 👨‍💻 All of my projects are available at [https://ganpathada22.netlify.app/](https://ganpathada22.netlify.app/)
+<!-- <h1 align="center">Hello, I'm Mohit Prajapati</h1> -->
+<!-- <br> -->
+<div align = "center">
+ <h1>Hi, I am 
+ <a href="https://mohitpraja.netlify.com" target="_blank">Mohit Praja</a>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+ <br>
+ <br>
+ </h1>
 
-- 💬 Ask me about **full stack web development,frontend development**
+ <img src="assets/developer_code.gif" alt="Developer Code" width="60%">
+ <p>🙏🏻 Welcome to my Github profile!<br />
+        I am a <b>Flutter developer</b> 🚀 from <b>Gwalior, India</b>.<br />
+        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+    <div>
+        <a href="https://www.linkedin.com/in/mohit-prajapati-3770551a2" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+          <a href="mailto:immohitpraja@gmail.com" target="_blank">
+        <img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+          <a href="https://www.github.com/mohitpraja" target="_blank">
+        <img alt="Github"
+                src="https://img.shields.io/badge/-Github-424345?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="" target="_blank">
+          <a href="https://mohitpraja.netlify.app" target="_blank">
+        <img alt="Portfolio"
+                src="https://img.shields.io/badge/-Portfolio-36a5d1?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+          <a href="" target="_blank">
+          <a href="https://play.google.com/store/apps/dev?id=4799245084988086634" target="_blank">
+        <img alt="PlayStore"
+                src="https://img.shields.io/badge/-PlayStore-f54257?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+          <a href="" target="_blank">
+        <!-- <img alt="Medium"
+                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" -->
+        <!-- <a href="https://www.dribbble.com/aromalanil"><img alt="Dribbble"
+                src="https://img.shields.io/badge/dribble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white-->
+    </div>
 
-- 📫 How to reach me **hadaganapt42@gmail.com**
+</div>
 
-- ⚡ Fun fact **I love ❤ art**
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>💫 About Me</h3>
+
+<img width="50%" align="right" alt="Github" src="assets/side-image.svg" />
+
+Hello there! I am a skilled Flutter developer with a passion for crafting efficient and user-friendly mobile applications. With a strong background in mobile app development, I specialize in using the Flutter framework to create cross-platform solutions that deliver seamless and engaging user experiences. My expertise extends to designing and implementing innovative features, ensuring high performance, and maintaining code quality. Committed to staying abreast of the latest industry trends, I bring a dynamic and forward-thinking approach to every project I undertake. Let's build something incredible together!
+
+
+- 🌱&nbsp;&nbsp;&nbsp;I’m currently learning **WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- 🔭&nbsp;&nbsp;&nbsp;I like exploring **Machine Learning**. <br>
+- 📫&nbsp;&nbsp;&nbsp;Ask me about **Pc building, Movies, or anything**. <br>
+- ⚡&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first rule of programming- if it works, don’t touch it.🤓.<br>
+
+<br>
+<h3> 💻 Tech Stack <br><br></h3>
+<p align = "left"> 
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="dart" width="70" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="dart" width="80" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="dart" width="30" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="dart" width="30" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="dart" width="80" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="dart" width="70" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="dart" width="30" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="35" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="dart" width="80" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="dart" width="80" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="dart" width="30" height="30"/>  
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="dart" width="80" height="30"/> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80" height="35"/> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3> 📊 GitHub Stats </h3>
+<div align="center">
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitpraja&theme=transparent" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitpraja&theme=transparent" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitpraja&theme=transparent&utcOffset=8" width="32.5%">
+<br>
+<br>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitpraja&theme=transparent" width="80%">
+</div>
+
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=mohitpraja&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpraja" /> </h3>
+
+
