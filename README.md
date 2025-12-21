@@ -1,6 +1,6 @@
 <div>
-
-# Hi, I am [Ganpat Hada](https://ganpathada22.netlify.com) 👋  
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&width=360&lines=Hi%2C+I+am+Ganpat+Hada)
 
 🙏🏻 Welcome to my GitHub profile!  
 I am a **Full Stack Web Developer** 🚀 from **Rajasthan, India**.  
